@@ -1,4 +1,4 @@
-# machine_learning
+# machine_learning_Coursera_AndrewNg
 Machine learning exercises
 
 This folder contains solutions to the exercises provided in "Machine Learning" coursera course by Prof. Andrew Ng.
